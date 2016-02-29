@@ -11,6 +11,8 @@ namespace HelloWorld
 
 			// Dette er en Git Test
 			Console.WriteLine ("Test Update!");
+
+			//Test2
 		}
 	}
 }
